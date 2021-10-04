@@ -14,7 +14,7 @@ organizations:
   url: https://bioinformatics.ucsd.edu/
 
 # Short bio (displayed in user profile at end of posts)
-My name is Adam Klie and I am a Ph.D. student at the University of California, San Diego (UCSD) in the Bioinformatics and System’s Biology (BISB) program. I am advised by Dr. Hannah Carter and I am currently working to understand gene regulatory dysregulation in the context of cancer. To do so, I look to apply and improve machine learning methods for genetic variant and gene regulatory network analysis.
+bio: My name is Adam Klie and I am a Ph.D. student at the University of California, San Diego (UCSD) in the Bioinformatics and System’s Biology (BISB) program. I am advised by Dr. Hannah Carter and I am currently working to understand gene regulatory dysregulation in the context of cancer. To do so, I look to apply and improve machine learning methods for genetic variant and gene regulatory network analysis.
 
 # Interests to show in About widget
 interests:
