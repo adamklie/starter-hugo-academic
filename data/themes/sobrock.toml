@@ -1,0 +1,38 @@
+# Theme metadata
+name = "Sobrock"
+
+# Is theme light or dark?
+light = true
+
+# Primary (main text)
+primary = "#71a3ac"
+
+# Menu
+menu_primary = "#e7e8dc"  # Primary menu color
+menu_text = "#71a3ac"  # 
+menu_text_active = "#ea7229"
+menu_title = "#71a3ac"
+
+# Home sections
+home_section_odd = "#e7e8dc"
+home_section_even = "#e7e8dc"
+
+link = "#ea7229"
+link_hover = "#ea7229"
+
+[dark]
+  # Primary (main text)
+    primary = "#e7e8dc"
+
+    # Menu
+    menu_primary = "#71a3ac"  # Primary menu color
+    menu_text = "#e7e8dc"  # 
+    menu_text_active = "#ea7229"
+    menu_title = "#e7e8dc"
+
+    # Home sections
+    home_section_odd = "#71a3ac"
+    home_section_even = "#71a3ac"
+
+    link = "#ea7229"
+    link_hover = "#ea7229"
